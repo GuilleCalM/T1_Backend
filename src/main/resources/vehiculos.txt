@@ -1,0 +1,9 @@
+1;ABC-1234;Toyota;Corolla;5;15000;Rojo
+2;XYZ-4567;Honda;Civic;4;16000;Azul
+3;LMN-7898;Ford;Focus;5;14000;Negro
+4;DEF-3210;Chevrolet;Malibu;5;17000;Blanco
+5;GHI-6543;Nissan;Sentra;4;15500;Gris
+6;JKL-9876;Hyundai;Elantra;5;14500;Verde
+7;MNO-4321;Kia;Forte;5;15000;Naranja
+8;PQR-8765;Volkswagen;Jetta;4;16500;Amarillo
+9;STU-5434;Subaru;Impreza;5;17500;Marrón
