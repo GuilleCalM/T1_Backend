@@ -16,7 +16,7 @@ public class AutoController {
     @Autowired
     AutoService autoService;
 
-    @PostMapping("/verificacion")
+    @PostMapping("/verificarplaca")
     public AutoResponseDTO verificarPlaca(@RequestBody AutoRequestDTO request) {
         try{
             String[] datosAuto = autoService.verificarPlaca(request);
